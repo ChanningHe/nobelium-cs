@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'CRAIGARY',
   author: 'Craig Hart',
-  email: '',
+  email: 'channinghe@homelabproject.cc',
   link: 'https://new.cloudofstar.com',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
